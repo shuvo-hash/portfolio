@@ -1,6 +1,6 @@
 # Clever Programmer ReactJS Portfolio Template      
 
-![ReactJS Resume Website Template](resume-screenshot.png?raw=true "ReactJS Resume Website Template")
+![ReactJS Resume Website Template](resume-screenshot-naz.png?raw=true "ReactJS Resume Website Template")
 
 ## <a href="https://vigorous-hugle-2928a1.netlify.app">LIVE DEMO</a>
 
