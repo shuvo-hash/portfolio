@@ -1,104 +1,136 @@
 {
   "main": {
-    "name": "Naz Dumanskyy",
-    "occupation": "Head Instructor @CleverProgrammer",
-    "description": "Full Stack Developer and Lead Instructor at Clever Programmer.",
-    "image": "Naz.jpg",
-    "bio": "My name is Naz, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer.",
+    "name": "Mohammad Shiblur Rahaman Shuvo",
+    "occupation": "",
+    "description": "Full Stack Developer .",
+    "image": "cover-shuvo.jpg",
+    "bio": "My name is Shuvo, i am a Full Stack developer. I have some of my own projects given bellow",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "naz@cleverprogrammer.com",
-    "phone": "+1 800 NAZ DUMA",
+    "email": "shuvorahamanmd@gmail.com",
+    "phone": "+39 389 2613143",
     "address": {
-      "street": "123 Fake Street",
-      "city": "Beverly Hills",
-      "state": "CA",
-      "zip": "90035"
+      "street": "Via nizza 360",
+      "city": "Torino",
+      "state": "",
+      "zip": "10124"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "",
+    "resumedownload": "",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/nazariy1995",
+        "url": "https://www.facebook.com/shuvo.rahaman.18/",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/nazariydumanskyy/",
+        "url": "https://www.linkedin.com/in/shuvo-hash/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/nazdumanskyy/",
+        "url": "https://www.instagram.com/shuvo.rahaman/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "https://github.com/Nazariy995",
+        "url": "https://github.com/shuvo-hash",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "Some of my Skills that I have developed",
     "education": [
       {
-        "school": "University of Michigan - Dearborn",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "January 2017",
-        "description": "Graduated with Distinction"
+        "school": "Government Science College",
+        "degree": "SSC Degree, in Science",
+        "graduated": "April 2012",
+        "description": "Completed Secondary School Certificate"
+      },
+      {
+        "school": "Dhaka Megacity College",
+        "degree": "HSC Degree, in Science",
+        "graduated": "May 2014",
+        "description": "Completed Higher School Certificate"
+      },
+      {
+        "school": "Politechnico Di Torino",
+        "degree": "Bachelor's Degree, in Mechanical Engineering",
+        "graduated": "August 2015",
+        "description": ""
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "JavaScript/Python Specialist",
-        "years": "May 2019 - Present",
-        "description": "Transforming the lives of people by teaching them how to become successful developers no matter if they are a beginner or not!"
+        "company": "",
+        "title": "",
+        "years": "",
+        "description": ""
       },
       {
-        "company": "NazaWEb",
-        "title": "Founder / Developer",
-        "years": "Jan 2019 - Present",
-        "description": "Helping businesses showing their best selves to clients."
+        "company": "",
+        "title": "",
+        "years": "",
+        "description": ""
       }
     ],
     "skills": [
       {
-        "name": "ReactJs",
-        "level": "100%"
+        "name": "HTML",
+        "level": "90%"
       },
       {
-        "name": "Python",
-        "level": "95%"
+        "name": "CSS",
+        "level": "85%"
       },
       {
-        "name": "Git",
-        "level": "75%"
-      },
-      {
-        "name": "JavaScript",
-        "level": "100%"
-      },
-      {
-        "name": "MongoDB",
+        "name": "JAVASCRIPT",
         "level": "80%"
+      },
+      {
+        "name": "PHP",
+        "level": "78%"
+      },
+      {
+        "name": "REACT JS",
+        "level": "60%"
+      },
+      {
+        "name": "NODE JS",
+        "level": "50%"
+      },
+      {
+        "name": "FIREBASE",
+        "level": "50%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Zoom Clone with NodeJS",
-        "category": "Zoom Clone built with NodeJS",
-        "image": "zoom.jpg",
-        "url": "https://www.youtube.com/watch?v=ZVznzY7EjuY"
+        "title": "Room Chat Application",
+        "category": "A real time room chat application made with react",
+        "image": "room-chat.png",
+        "url": "https://5f134bf0c0d6173be2fb0b7f--distracted-goldstine-68af6a.netlify.app/"
       },
       {
-        "title": "Robinhood Clone",
-        "category": "Robinhood Clone built with ReactJS",
-        "image": "robinhood.jpg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+        "title": "Drum Kit",
+        "category": "Drum kit music app with javascript",
+        "image": "drum-kit.jpg",
+        "url": "https://shuvo-hash.github.io/Drum-Kit/"
+      },
+      {
+        "title": "Chat-app",
+        "category": "A real time chatting app with react and firebase",
+        "image": "chat-app.png",
+        "url": "https://whatsapp-clone-87325.web.app/"
+      },
+      {
+        "title": "Weather application",
+        "category": "A location based weather application with javascript",
+        "image": "weather.png",
+        "url": "https://shuvo-hash.github.io/weather-application/"
       }
     ]
   },
