@@ -131,6 +131,12 @@
         "category": "A location based weather application with javascript",
         "image": "weather.png",
         "url": "https://shuvo-hash.github.io/weather-application/"
+      },
+      {
+        "title": "Tinder Demo",
+        "category": "Tinder demo application create with react and firebase",
+        "image": "tinder.webp",
+        "url": "https://tinder-clone-1bdcd.web.app/"
       }
     ]
   },
