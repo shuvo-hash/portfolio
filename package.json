@@ -1,8 +1,10 @@
 {
   "name": "personalportfolio",
+  "homepage": "https://www.shuvo.cc",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "emailjs-com": "^2.6.4",
     "jquery": "^3.5.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",

@@ -3,7 +3,7 @@
     "name": "Mohammad Shiblur Rahaman Shuvo",
     "occupation": "",
     "description": "Full Stack Developer .",
-    "image": "cover-shuvo.jpg",
+    "image": "shuvo.png",
     "bio": "My name is Shuvo, i am a Full Stack developer. I have some of my own projects given bellow",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "shuvorahamanmd@gmail.com",
@@ -137,6 +137,12 @@
         "category": "Tinder demo application create with react and firebase",
         "image": "tinder.webp",
         "url": "https://tinder-clone-1bdcd.web.app/"
+      },
+      {
+        "title": "LinkedIn Demo",
+        "category": "Tinder demo application create with react, redux and firebase",
+        "image": "linkedin1.png",
+        "url": "https://linkedin-clone-c0e10.web.app/"
       }
     ]
   },
