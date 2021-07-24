@@ -2,7 +2,7 @@
   "main": {
     "name": "Mohammad Shiblur Rahaman Shuvo",
     "occupation": "",
-    "description": "Full Stack Developer .",
+    "description": "Full Stack Developer.",
     "image": "shuvo.png",
     "bio": "My name is Shuvo, i am a Full Stack developer. I have some of my own projects given bellow",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
@@ -10,7 +10,7 @@
     "phone": "+39 389 2613143",
     "address": {
       "street": "Via nizza 360",
-      "city": "Torino",
+      "city": "Turin",
       "state": "",
       "zip": "10124"
     },
@@ -149,13 +149,13 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "I have been learning programming from 2018. I have learned Html, Css, Php, Javascript, NodeJs, React, Firebase. I have done some projects. But I did not add all my projects on my portfolio."
+        "text": "I have been learning programming from 2018. I am a self taught developer. I have learned Html, Css, Php, Javascript, NodeJs, React, Firebase, Next js, Mysql, Mongodb. I have done some projects. I also have some private project that i have done for the client. So I did not add all my projects on my portfolio"
       },
       {
-        "text": "Now I want to develop my skills on programming more and more by working with new technologies and projects. I am a very fast learner in this sector."
+        "text": "Now I want to develop my skills on programming more and more by working with new technologies in different projects. I am very much confident in this sector and I hope i will be able to reach my goal. "
       },
       {
-        "text": "If you need more informations about me, contact me via email."
+        "text": "If you need more information about me, contact me via email. Thank you!"
       }
     ]
   }

@@ -3,7 +3,6 @@ import emailjs from 'emailjs-com';
 import{ init } from 'emailjs-com';
 
 const Contact = ({ data }) => {
-   const [url, setUrl] = useState('');
    const [name, setName] = useState('');
    const [subject, setSubject] = useState('');
    const [email, setEmail] = useState('');
@@ -11,12 +10,7 @@ const Contact = ({ data }) => {
    const [success, setSuccess] = useState('');
    const [error, setError] = useState('');
 
-   console.log(data)
 
-   /*  const handleClick = (e) => {
-       e.preventDefault();
-      window.open(`mailto:${email}?subject=${subject}&body=${name}: ${message}`);
-    } */
 
     function sendEmail(e) {
       e.preventDefault();
@@ -37,7 +31,7 @@ const Contact = ({ data }) => {
         setMessage("");
         setSubject("");
         setSuccess("Your message was sent, thank you!")
-         
+        setError("")
     }
 
     
@@ -55,11 +49,6 @@ const Contact = ({ data }) => {
 
             </div>
 
-            {/* <div className="ten columns">
-
-                  <p className="lead">{data?.message}</p>
-
-            </div> */}
 
          </div>
 
@@ -86,7 +75,7 @@ const Contact = ({ data }) => {
 
                   <div>
                      <label htmlFor="contactMessage">Message <span className="required">*</span></label>
-                     <textarea value={message} onChange={e => setMessage(e.target.value)} cols="50" rows="15" id="contactMessage" name="contactMessage" required></textarea>
+                     <textarea value={message} onChange={e => setMessage(e.target.value)} cols="50" rows="5" id="contactMessage" name="contactMessage" required></textarea>
                   </div>
 
                   <div>
@@ -119,9 +108,7 @@ const Contact = ({ data }) => {
 					   </p>
 				   </div>
 
-               <div className="widget widget_tweets">
-
-		         </div>
+               
             </aside>
       </div>
    </section>
