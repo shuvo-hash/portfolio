@@ -2,9 +2,9 @@
   "main": {
     "name": "Mohammad Shiblur Rahaman Shuvo",
     "occupation": "",
-    "description": "Full Stack Developer.",
+    "description": "Full Stack Engineer.",
     "image": "shuvo.png",
-    "bio": "My name is Shuvo, I am a Full Stack developer. I have some of my own projects given bellow",
+    "bio": "My name is Shuvo, I am a Full Stack developer. Before i started my job i have been working on my own projects that you will find in my github. ",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "shuvorahamanmd@gmail.com",
     "phone": "+39 389 2613143",
@@ -43,10 +43,10 @@
     "skillmessage": "Some of my Skills that I have developed",
     "education": [
       {
-        "school": "Government Science College",
-        "degree": "SSC Degree, in Science",
-        "graduated": "April 2012",
-        "description": "Completed Secondary School Certificate"
+        "school": "Politechnico Di Torino",
+        "degree": "Bachelor's Degree, in Mechanical Engineering",
+        "graduated": "August 2017",
+        "description": ""
       },
       {
         "school": "Dhaka Megacity College",
@@ -55,24 +55,18 @@
         "description": "Completed Higher School Certificate"
       },
       {
-        "school": "Politechnico Di Torino",
-        "degree": "Bachelor's Degree, in Mechanical Engineering",
-        "graduated": "August 2015",
-        "description": ""
+        "school": "Government Science College",
+        "degree": "SSC Degree, in Science",
+        "graduated": "April 2012",
+        "description": "Completed Secondary School Certificate"
       }
     ],
     "work": [
       {
-        "company": "",
-        "title": "",
-        "years": "",
-        "description": ""
-      },
-      {
-        "company": "",
-        "title": "",
-        "years": "",
-        "description": ""
+        "company": "Fyondev",
+        "title": "Full-stack engineer",
+        "years": "March, 2021",
+        "description": "Here i am working as a full-stack developer. I am using React js, Node js, Next js, Mysql and Mongodb. We have so many features in our app that is build by our team. Here i have a great team so we are very much flexible in work. "
       }
     ],
     "skills": [
@@ -89,16 +83,32 @@
         "level": "80%"
       },
       {
-        "name": "PHP",
-        "level": "78%"
+        "name": "REACT JS",
+        "level": "90%"
       },
       {
-        "name": "REACT JS",
+        "name": "NEXT JS",
+        "level": "80%"
+      },
+      {
+        "name": "VUE JS",
         "level": "60%"
       },
       {
         "name": "NODE JS",
-        "level": "50%"
+        "level": "80%"
+      },
+      {
+        "name": "PHP",
+        "level": "78%"
+      },
+      {
+        "name": "MYSQL ",
+        "level": "90%"
+      },
+      {
+        "name": "MONGODB ",
+        "level": "80%"
       },
       {
         "name": "FIREBASE",
@@ -155,7 +165,7 @@
         "text": "Now I want to develop my skills on programming more and more by working with new technologies in different projects. I am very much confident in this sector and I hope i will be able to reach my goal. "
       },
       {
-        "text": "If you need more information about me, contact me via email. Thank you!"
+        "text": "If you need more information about me, contact me via email or in linked-in. Thank you!"
       }
     ]
   }
